@@ -12,5 +12,8 @@
       "a": "b",
       "c": "d"
     },
-    "string": "Hello World"
+    "string": "Hello World",
+    "personalDetails": {
+      "name": "Hiferli"
+    }
   }
